@@ -1,5 +1,5 @@
 # write a programe to print following patter
-# ->1,4,9,16,25,36,...10 digit
+# ->1,4,9,16,25,36,...100 digit
 
 number=1
 print(number,end=" ")
